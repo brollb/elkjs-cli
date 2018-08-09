@@ -1,0 +1,11 @@
+{
+  "name": "elkjs-cli",
+  "version": "1.0.0",
+  "description": "A command line interface for automatic layouts using elkjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Broll",
+  "license": "Apache 2.0"
+}
